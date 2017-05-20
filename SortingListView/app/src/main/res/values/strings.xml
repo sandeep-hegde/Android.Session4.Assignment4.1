@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sorting ListView</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+</resources>
